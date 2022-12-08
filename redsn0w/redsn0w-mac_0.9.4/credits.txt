@@ -1,0 +1,9 @@
+Credits
+-------
+iPhone DevTeam 2007-2010 - Thanks to all the DevTeam for their help with this tool.
+
+Additional Credits
+------------------
+24kpwn for iPod touch 2G and early-model iPhone 3GS:
+   vulnerability: pod2g, MuscleNerd
+   exploit: planetbeing, CPICH, posixninja, chronic
